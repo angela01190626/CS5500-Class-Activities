@@ -10,4 +10,6 @@ const o = {
 
 let x = o.person.fullName();
 console.log(x);
+
+// undefined because this is not defined in the scope
   
